@@ -1,0 +1,301 @@
+customer_id,plan,MonthlyCharges,tenure_months,BillingCycle,watch_hours_30d,watch_hours_change_pct,avg_session_min,devices_count,days_since_last_active,support_tickets_90d,payment_failures_6m,payment_method,Churn
+OTT-00000,Mobile,6,24,Monthly,39.8,-10.9,51.0,2,0.0,0,1,Card,No
+OTT-00001,Mobile,6,11,Monthly,37.7,-21.4,36.0,4,1.0,0,1,Card,No
+OTT-00002,Premium,18,11,Monthly,35.8,12.1,61.0,1,1.0,1,0,Card,No
+OTT-00003,Standard,12,2,Annual,46.8,20.1,71.0,5,2.0,2,0,Card,No
+OTT-00004,Mobile,6,2,Monthly,17.2,11.7,30.0,5,3.0,1,1,Wallet,No
+OTT-00005,Mobile,6,11,Monthly,17.5,-53.9,36.0,5,1.0,2,0,Card,No
+OTT-00006,Mobile,6,4,Annual,25.9,-10.9,35.0,5,10.0,0,0,Carrier billing,No
+OTT-00007,Standard,12,16,Monthly,50.3,-8.4,56.0,4,19.0,1,0,UPI,No
+OTT-00008,Standard,12,1,Monthly,2.0,-35.3,63.0,5,3.0,0,0,Card,Yes
+OTT-00009,Mobile,6,42,Monthly,17.6,-27.5,58.0,3,2.0,1,1,UPI,Yes
+OTT-00010,Mobile,6,33,Monthly,16.3,52.2,26.0,5,1.0,0,0,Card,No
+OTT-00011,Premium,18,8,Monthly,31.9,23.2,83.0,4,4.0,2,1,Card,Yes
+OTT-00012,Standard,12,9,Monthly,9.0,-37.3,28.0,3,10.0,2,0,UPI,Yes
+OTT-00013,Standard,12,11,Monthly,25.9,18.6,50.0,2,10.0,1,0,UPI,No
+OTT-00014,Mobile,6,10,Monthly,49.0,16.4,41.0,2,1.0,0,1,Wallet,No
+OTT-00015,Premium,18,7,Monthly,7.7,-24.5,24.0,5,11.0,0,0,Card,Yes
+OTT-00016,Standard,12,11,Annual,12.9,13.7,50.0,1,5.0,1,0,UPI,No
+OTT-00017,Mobile,6,38,Annual,26.8,-14.9,47.0,4,1.0,0,0,UPI,No
+OTT-00018,Premium,18,27,Annual,37.8,-55.5,59.0,4,1.0,1,0,UPI,No
+OTT-00019,Standard,12,7,Monthly,27.7,-14.4,44.0,2,2.0,0,0,Carrier billing,Yes
+OTT-00020,Mobile,6,9,Monthly,38.4,-33.3,50.0,3,1.0,2,0,Carrier billing,No
+OTT-00021,Standard,12,5,Monthly,38.2,-19.2,81.0,5,6.0,1,0,UPI,No
+OTT-00022,Premium,18,41,Monthly,9.1,14.6,41.0,1,2.0,0,0,Card,Yes
+OTT-00023,Standard,12,25,Monthly,23.0,14.6,12.0,2,1.0,1,0,Carrier billing,Yes
+OTT-00024,Standard,12,23,Monthly,0.0,10.8,64.0,5,0.0,1,0,Card,No
+OTT-00025,Standard,12,25,Monthly,32.4,8.6,62.0,5,3.0,0,0,Wallet,Yes
+OTT-00026,Premium,18,23,Monthly,54.8,-32.4,17.0,5,5.0,1,1,Wallet,No
+OTT-00027,Mobile,6,22,Monthly,16.7,-24.2,21.0,4,15.0,1,1,Card,No
+OTT-00028,Mobile,6,20,Monthly,20.6,34.5,35.0,4,11.0,0,0,Wallet,No
+OTT-00029,Standard,12,42,Annual,15.2,53.2,26.0,2,5.0,0,0,Card,No
+OTT-00030,Mobile,6,40,Annual,45.9,-0.5,38.0,3,3.0,0,1,Wallet,No
+OTT-00031,Mobile,6,27,Monthly,34.0,8.8,39.0,3,4.0,0,0,Wallet,Yes
+OTT-00032,Premium,18,39,Annual,20.8,63.6,43.0,3,4.0,2,1,UPI,No
+OTT-00033,Mobile,6,2,Monthly,5.8,-12.9,70.0,3,0.0,1,2,Card,Yes
+OTT-00034,Mobile,6,35,Monthly,21.1,4.8,87.0,2,4.0,2,1,Carrier billing,No
+OTT-00035,Mobile,6,16,Annual,10.1,-20.0,20.0,4,9.0,2,1,Carrier billing,No
+OTT-00036,Standard,12,6,Annual,23.5,-63.8,47.0,1,6.0,0,1,Carrier billing,No
+OTT-00037,Standard,12,38,Annual,27.0,-17.9,67.0,3,2.0,3,0,Carrier billing,No
+OTT-00038,Premium,18,40,Annual,13.0,11.1,70.0,5,2.0,1,0,UPI,No
+OTT-00039,Mobile,6,7,Monthly,19.5,-47.5,16.0,4,4.0,0,0,Wallet,No
+OTT-00040,Mobile,6,28,Annual,38.8,14.9,45.0,1,1.0,2,0,UPI,No
+OTT-00041,Premium,18,41,Monthly,16.2,-38.9,63.0,3,0.0,0,0,Wallet,No
+OTT-00042,Standard,12,32,Annual,47.2,-18.7,28.0,1,9.0,0,0,Card,No
+OTT-00043,Standard,12,25,Monthly,32.3,-6.0,33.0,5,2.0,0,0,Wallet,No
+OTT-00044,Premium,18,13,Monthly,29.9,-27.9,64.0,1,8.0,1,0,Card,Yes
+OTT-00045,Mobile,6,16,Annual,31.7,0.8,36.0,4,0.0,1,0,Card,Yes
+OTT-00046,Standard,12,41,Monthly,0.0,-3.5,57.0,3,4.0,1,0,Card,No
+OTT-00047,Standard,12,11,Monthly,38.2,2.0,79.0,3,2.0,0,0,Card,No
+OTT-00048,Standard,12,5,Annual,41.4,44.0,49.0,1,1.0,1,0,Card,No
+OTT-00049,Mobile,6,16,Monthly,32.7,-24.7,38.0,3,14.0,1,0,UPI,No
+OTT-00050,Mobile,6,17,Monthly,5.6,14.2,58.0,2,2.0,1,0,Wallet,No
+OTT-00051,Standard,12,3,Monthly,31.4,-22.6,54.0,4,14.0,0,0,Wallet,No
+OTT-00052,Mobile,6,26,Monthly,10.5,0.3,35.0,5,1.0,0,1,Card,No
+OTT-00053,Mobile,6,27,Annual,35.0,28.8,47.0,5,2.0,0,1,Card,No
+OTT-00054,Mobile,6,44,Annual,33.6,29.7,61.0,5,2.0,0,0,UPI,No
+OTT-00055,Standard,12,13,Monthly,19.9,-13.9,50.0,2,4.0,3,0,UPI,No
+OTT-00056,Premium,18,14,Monthly,28.5,27.2,27.0,5,2.0,1,1,Card,Yes
+OTT-00057,Standard,12,42,Annual,29.3,8.5,61.0,1,14.0,0,1,Card,No
+OTT-00058,Standard,12,21,Monthly,42.9,3.6,41.0,5,3.0,3,0,UPI,Yes
+OTT-00059,Mobile,6,7,Annual,31.9,8.3,39.0,2,2.0,2,1,Card,No
+OTT-00060,Mobile,6,28,Monthly,11.5,-0.7,12.0,5,3.0,1,0,Carrier billing,No
+OTT-00061,Mobile,6,23,Annual,0.4,-26.1,72.0,3,0.0,1,0,Card,No
+OTT-00062,Standard,12,27,Monthly,44.4,-4.2,56.0,2,0.0,0,0,Card,No
+OTT-00063,Standard,12,35,Monthly,6.7,42.9,37.0,1,9.0,0,0,Wallet,No
+OTT-00064,Mobile,6,45,Monthly,8.9,-18.6,58.0,1,17.0,1,0,Card,No
+OTT-00065,Standard,12,37,Monthly,18.6,97.1,67.0,5,9.0,0,1,Card,No
+OTT-00066,Standard,12,38,Annual,18.9,-22.5,63.0,4,1.0,0,0,Card,No
+OTT-00067,Standard,12,11,Monthly,3.0,26.2,38.0,2,6.0,0,0,Card,No
+OTT-00068,Premium,18,43,Monthly,25.9,-43.7,26.0,3,9.0,2,0,Card,No
+OTT-00069,Mobile,6,46,Monthly,7.6,12.5,34.0,5,5.0,1,0,Card,No
+OTT-00070,Standard,12,6,Monthly,30.5,-49.8,52.0,5,6.0,1,0,Carrier billing,No
+OTT-00071,Mobile,6,46,Annual,31.9,26.7,19.0,4,13.0,1,0,Wallet,Yes
+OTT-00072,Mobile,6,20,Annual,40.5,1.0,81.0,5,4.0,0,0,Carrier billing,No
+OTT-00073,Mobile,6,20,Monthly,31.4,29.9,52.0,1,6.0,0,0,Carrier billing,No
+OTT-00074,Mobile,6,30,Monthly,34.1,-36.1,67.0,3,2.0,1,0,Wallet,Yes
+OTT-00075,Mobile,6,23,Monthly,4.3,6.0,27.0,2,8.0,0,0,UPI,No
+OTT-00076,Premium,18,23,Monthly,13.5,18.4,48.0,3,0.0,0,0,Wallet,No
+OTT-00077,Standard,12,17,Monthly,22.9,18.2,33.0,3,0.0,1,0,Card,No
+OTT-00078,Standard,12,17,Monthly,37.0,-26.6,9.0,1,2.0,0,0,Card,No
+OTT-00079,Standard,12,20,Annual,24.3,4.4,57.0,4,5.0,3,0,Card,No
+OTT-00080,Premium,18,29,Monthly,21.2,-15.3,70.0,2,1.0,3,1,Wallet,Yes
+OTT-00081,Mobile,6,38,Monthly,33.2,6.0,93.0,4,8.0,1,0,UPI,No
+OTT-00082,Mobile,6,7,Monthly,0.0,-50.1,51.0,2,2.0,1,0,UPI,Yes
+OTT-00083,Standard,12,25,Monthly,10.7,44.5,37.0,4,1.0,1,0,Wallet,No
+OTT-00084,Premium,18,24,Annual,27.5,-18.2,63.0,4,14.0,1,0,Card,No
+OTT-00085,Mobile,6,43,Monthly,25.5,14.6,31.0,4,1.0,1,1,Card,No
+OTT-00086,Standard,12,6,Monthly,31.6,-34.8,33.0,3,2.0,1,0,Wallet,Yes
+OTT-00087,Standard,12,20,Annual,28.7,-49.9,44.0,2,12.0,2,0,UPI,Yes
+OTT-00088,Premium,18,15,Annual,30.6,20.1,27.0,3,19.0,0,0,Carrier billing,No
+OTT-00089,Standard,12,34,Annual,16.9,19.5,27.0,4,5.0,0,1,UPI,No
+OTT-00090,Premium,18,6,Annual,43.7,25.5,76.0,3,17.0,2,0,Card,Yes
+OTT-00091,Standard,12,36,Monthly,10.2,10.7,27.0,5,4.0,1,1,Wallet,No
+OTT-00092,Mobile,6,47,Monthly,21.7,35.4,57.0,2,0.0,2,0,Card,No
+OTT-00093,Standard,12,17,Monthly,25.5,10.3,28.0,1,9.0,1,0,UPI,Yes
+OTT-00094,Standard,12,16,Monthly,33.9,-27.7,42.0,3,12.0,0,1,UPI,No
+OTT-00095,Standard,12,44,Monthly,12.0,72.1,52.0,4,4.0,0,0,Wallet,No
+OTT-00096,Mobile,6,13,Monthly,23.8,-25.0,47.0,3,8.0,3,0,Wallet,Yes
+OTT-00097,Mobile,6,25,Monthly,39.6,25.3,28.0,2,1.0,0,0,Card,No
+OTT-00098,Standard,12,7,Monthly,24.9,15.0,63.0,4,1.0,2,0,Wallet,No
+OTT-00099,Mobile,6,25,Monthly,27.3,31.8,47.0,5,2.0,1,1,Wallet,No
+OTT-00100,Mobile,6,40,Monthly,19.6,-2.8,11.0,5,3.0,0,0,Wallet,No
+OTT-00101,Standard,12,3,Monthly,25.0,10.1,63.0,5,4.0,2,2,UPI,No
+OTT-00102,Standard,12,37,Monthly,24.6,-18.8,46.0,2,3.0,0,0,Card,No
+OTT-00103,Standard,12,41,Monthly,30.7,17.4,42.0,1,3.0,2,0,Carrier billing,No
+OTT-00104,Standard,12,7,Monthly,7.7,-38.5,50.0,1,10.0,0,0,UPI,No
+OTT-00105,Standard,12,30,Monthly,23.1,38.1,11.0,5,13.0,0,1,Card,No
+OTT-00106,Standard,12,29,Monthly,27.0,70.5,29.0,2,5.0,2,0,UPI,No
+OTT-00107,Premium,18,12,Monthly,36.2,33.0,49.0,1,0.0,0,0,UPI,No
+OTT-00108,Mobile,6,2,Monthly,34.4,-62.2,25.0,2,6.0,0,0,Wallet,Yes
+OTT-00109,Mobile,6,16,Monthly,44.5,-16.0,59.0,3,5.0,2,0,Wallet,No
+OTT-00110,Standard,12,28,Monthly,25.3,29.5,19.0,4,6.0,1,0,UPI,No
+OTT-00111,Standard,12,18,Monthly,6.8,-33.5,42.0,1,1.0,3,1,Card,Yes
+OTT-00112,Premium,18,3,Monthly,24.0,-40.4,72.0,3,8.0,2,0,UPI,Yes
+OTT-00113,Standard,12,41,Monthly,2.3,4.2,28.0,3,3.0,2,0,Card,Yes
+OTT-00114,Standard,12,37,Monthly,2.2,-14.3,45.0,1,5.0,0,0,Card,No
+OTT-00115,Standard,12,39,Monthly,16.1,-16.0,27.0,3,16.0,1,2,Card,Yes
+OTT-00116,Standard,12,43,Monthly,28.3,-41.9,14.0,4,2.0,0,0,Wallet,No
+OTT-00117,Standard,12,26,Monthly,10.0,50.8,57.0,2,18.0,0,0,Card,No
+OTT-00118,Mobile,6,23,Monthly,43.6,-29.3,44.0,4,11.0,1,0,UPI,Yes
+OTT-00119,Standard,12,38,Annual,28.1,-12.9,46.0,5,1.0,0,0,Card,Yes
+OTT-00120,Standard,12,44,Monthly,42.4,12.6,51.0,2,1.0,0,0,Card,No
+OTT-00121,Premium,18,28,Annual,49.4,-6.9,28.0,3,2.0,0,0,Card,No
+OTT-00122,Mobile,6,9,Monthly,38.8,-14.4,21.0,5,12.0,1,0,UPI,No
+OTT-00123,Mobile,6,8,Monthly,18.3,28.2,49.0,1,0.0,1,0,Carrier billing,No
+OTT-00124,Mobile,6,38,Monthly,10.3,11.0,75.0,1,3.0,1,0,UPI,No
+OTT-00125,Mobile,6,11,Annual,11.7,9.7,51.0,4,1.0,0,0,Wallet,No
+OTT-00126,Premium,18,23,Monthly,26.9,-12.7,17.0,1,1.0,2,0,Wallet,Yes
+OTT-00127,Standard,12,16,Monthly,18.8,-39.4,104.0,3,5.0,0,0,Card,No
+OTT-00128,Standard,12,39,Monthly,10.5,34.3,20.0,3,4.0,1,0,Card,Yes
+OTT-00129,Standard,12,11,Monthly,33.3,-21.7,8.0,2,2.0,0,0,Wallet,No
+OTT-00130,Mobile,6,24,Monthly,32.1,-41.0,80.0,2,2.0,0,0,Carrier billing,Yes
+OTT-00131,Standard,12,44,Monthly,12.1,-11.0,29.0,2,2.0,1,0,Wallet,No
+OTT-00132,Mobile,6,23,Annual,17.2,-2.2,35.0,3,7.0,0,1,Carrier billing,Yes
+OTT-00133,Premium,18,10,Annual,4.4,-42.4,68.0,4,1.0,1,2,UPI,Yes
+OTT-00134,Mobile,6,16,Monthly,26.2,-13.5,78.0,4,8.0,1,1,Wallet,No
+OTT-00135,Mobile,6,5,Annual,18.6,-0.6,41.0,5,3.0,0,1,Carrier billing,No
+OTT-00136,Premium,18,40,Annual,38.7,-38.9,60.0,3,1.0,1,0,UPI,No
+OTT-00137,Premium,18,41,Monthly,24.7,33.2,81.0,3,4.0,0,0,Card,No
+OTT-00138,Standard,12,48,Annual,14.2,-39.1,21.0,1,13.0,0,0,Wallet,Yes
+OTT-00139,Mobile,6,7,Monthly,25.1,19.4,51.0,4,11.0,1,0,UPI,Yes
+OTT-00140,Mobile,6,13,Monthly,20.7,4.5,37.0,3,4.0,0,0,Card,No
+OTT-00141,Mobile,6,1,Monthly,14.1,76.1,21.0,1,4.0,2,0,Carrier billing,Yes
+OTT-00142,Premium,18,24,Annual,22.6,1.7,64.0,4,1.0,0,0,UPI,Yes
+OTT-00143,Premium,18,33,Monthly,6.1,-42.2,69.0,3,5.0,1,0,Card,Yes
+OTT-00144,Standard,12,14,Monthly,26.7,-38.1,58.0,3,1.0,2,0,UPI,Yes
+OTT-00145,Premium,18,8,Annual,27.7,-9.6,57.0,3,5.0,1,0,UPI,No
+OTT-00146,Standard,12,5,Annual,39.5,-74.9,39.0,3,5.0,2,0,Wallet,No
+OTT-00147,Mobile,6,20,Monthly,26.9,-40.6,51.0,1,6.0,2,0,UPI,No
+OTT-00148,Standard,12,39,Monthly,10.7,18.7,56.0,4,6.0,0,0,Card,No
+OTT-00149,Premium,18,16,Monthly,0.0,64.9,92.0,1,5.0,0,0,UPI,No
+OTT-00150,Premium,18,32,Monthly,9.2,-3.1,13.0,4,2.0,1,0,Card,No
+OTT-00151,Mobile,6,47,Monthly,29.1,-31.8,33.0,4,1.0,0,0,UPI,No
+OTT-00152,Premium,18,4,Annual,41.7,30.9,41.0,3,3.0,1,0,Wallet,No
+OTT-00153,Standard,12,5,Monthly,26.0,39.1,55.0,2,10.0,1,0,Card,No
+OTT-00154,Standard,12,36,Monthly,13.2,-13.6,75.0,4,7.0,1,0,Card,Yes
+OTT-00155,Standard,12,3,Monthly,28.1,18.7,65.0,2,0.0,0,1,UPI,No
+OTT-00156,Mobile,6,23,Monthly,0.0,39.2,39.0,1,4.0,2,0,UPI,Yes
+OTT-00157,Standard,12,38,Monthly,25.3,9.9,58.0,5,3.0,1,0,Card,No
+OTT-00158,Standard,12,38,Annual,33.2,-20.7,43.0,4,4.0,0,0,UPI,No
+OTT-00159,Premium,18,16,Monthly,13.8,-15.7,50.0,1,2.0,1,1,Carrier billing,No
+OTT-00160,Premium,18,6,Annual,38.6,-37.0,66.0,4,0.0,1,0,UPI,No
+OTT-00161,Mobile,6,28,Monthly,44.7,-23.5,5.0,5,9.0,1,0,Card,No
+OTT-00162,Mobile,6,19,Monthly,32.8,18.7,40.0,2,1.0,0,0,UPI,No
+OTT-00163,Mobile,6,1,Annual,30.2,-6.6,25.0,5,10.0,1,0,UPI,No
+OTT-00164,Mobile,6,42,Annual,0.0,-45.7,27.0,2,0.0,1,1,Wallet,Yes
+OTT-00165,Standard,12,48,Monthly,29.2,10.2,33.0,4,0.0,0,1,Card,No
+OTT-00166,Standard,12,2,Monthly,38.5,33.1,8.0,1,7.0,1,0,Carrier billing,No
+OTT-00167,Mobile,6,32,Annual,23.3,-5.3,71.0,2,1.0,1,1,Card,No
+OTT-00168,Mobile,6,13,Monthly,36.4,-2.5,96.0,5,9.0,0,0,Wallet,No
+OTT-00169,Standard,12,32,Monthly,26.9,44.1,49.0,2,0.0,2,0,Card,No
+OTT-00170,Premium,18,5,Monthly,25.6,35.2,77.0,5,0.0,2,0,Card,No
+OTT-00171,Standard,12,36,Annual,31.7,16.4,32.0,1,11.0,0,0,Card,No
+OTT-00172,Mobile,6,5,Monthly,22.4,42.7,72.0,3,0.0,0,0,Wallet,Yes
+OTT-00173,Standard,12,18,Monthly,14.3,35.2,36.0,1,1.0,1,0,UPI,No
+OTT-00174,Premium,18,16,Monthly,21.4,-3.5,34.0,3,7.0,1,0,Card,No
+OTT-00175,Premium,18,20,Monthly,20.1,11.6,48.0,2,3.0,0,0,Card,Yes
+OTT-00176,Premium,18,23,Monthly,30.3,3.7,81.0,5,2.0,1,0,Card,No
+OTT-00177,Premium,18,22,Monthly,12.5,59.4,68.0,2,2.0,1,0,UPI,No
+OTT-00178,Standard,12,10,Monthly,41.3,12.9,74.0,4,5.0,2,0,Card,No
+OTT-00179,Premium,18,39,Monthly,29.5,10.7,16.0,1,1.0,1,0,Carrier billing,No
+OTT-00180,Premium,18,47,Monthly,41.8,56.2,23.0,3,1.0,0,1,Wallet,No
+OTT-00181,Standard,12,5,Annual,21.5,5.2,35.0,4,2.0,0,0,Card,No
+OTT-00182,Mobile,6,29,Monthly,6.5,-10.0,75.0,3,3.0,2,0,Card,No
+OTT-00183,Mobile,6,14,Monthly,7.8,-64.8,59.0,3,1.0,2,0,Card,Yes
+OTT-00184,Standard,12,46,Monthly,15.9,-12.9,9.0,3,7.0,0,0,UPI,No
+OTT-00185,Standard,12,38,Annual,10.2,5.8,39.0,1,2.0,1,0,UPI,No
+OTT-00186,Standard,12,31,Annual,3.0,29.5,32.0,1,1.0,1,1,Card,No
+OTT-00187,Mobile,6,4,Monthly,27.6,-0.2,42.0,1,7.0,2,0,Card,No
+OTT-00188,Mobile,6,39,Monthly,29.7,-25.9,90.0,3,2.0,1,0,Card,No
+OTT-00189,Premium,18,46,Monthly,21.9,11.9,41.0,5,4.0,0,0,Wallet,No
+OTT-00190,Mobile,6,45,Monthly,44.6,-53.0,37.0,4,5.0,1,0,Card,No
+OTT-00191,Premium,18,27,Monthly,24.6,39.0,22.0,4,4.0,0,0,Card,No
+OTT-00192,Standard,12,30,Monthly,20.4,43.0,62.0,1,4.0,1,2,UPI,Yes
+OTT-00193,Mobile,6,6,Annual,20.8,-52.6,43.0,1,1.0,0,0,UPI,No
+OTT-00194,Standard,12,3,Monthly,35.5,-25.3,28.0,3,14.0,0,1,Card,No
+OTT-00195,Premium,18,10,Monthly,5.9,10.6,58.0,2,7.0,0,0,Card,Yes
+OTT-00196,Standard,12,17,Monthly,0.0,52.9,38.0,1,1.0,1,1,Wallet,No
+OTT-00197,Premium,18,10,Monthly,28.0,-1.6,41.0,4,2.0,1,0,Card,No
+OTT-00198,Premium,18,23,Monthly,28.0,11.7,25.0,4,0.0,0,0,Card,No
+OTT-00199,Premium,18,9,Annual,33.3,7.6,6.0,5,21.0,1,0,Wallet,No
+OTT-00200,Standard,12,40,Monthly,24.6,-46.6,61.0,2,5.0,0,0,Card,No
+OTT-00201,Mobile,6,25,Monthly,49.6,-10.2,53.0,5,1.0,2,0,Card,No
+OTT-00202,Standard,12,6,Annual,36.5,-22.7,51.0,2,10.0,1,1,Carrier billing,Yes
+OTT-00203,Standard,12,39,Monthly,0.0,7.1,42.0,4,6.0,1,0,Card,No
+OTT-00204,Standard,12,2,Monthly,5.8,-20.5,34.0,2,3.0,0,1,UPI,Yes
+OTT-00205,Standard,12,8,Monthly,0.0,1.0,47.0,1,1.0,3,1,Carrier billing,Yes
+OTT-00206,Standard,12,33,Monthly,26.1,-1.6,59.0,2,4.0,0,0,Card,Yes
+OTT-00207,Standard,12,3,Monthly,27.7,0.9,53.0,1,1.0,2,0,Card,No
+OTT-00208,Standard,12,13,Monthly,48.9,32.0,31.0,5,0.0,2,0,Card,No
+OTT-00209,Standard,12,2,Monthly,14.7,11.6,64.0,1,3.0,0,0,Card,Yes
+OTT-00210,Mobile,6,3,Monthly,12.4,-7.3,46.0,3,8.0,1,0,Card,Yes
+OTT-00211,Mobile,6,7,Monthly,28.5,14.9,46.0,2,21.0,0,1,Card,No
+OTT-00212,Standard,12,7,Monthly,10.6,-16.2,34.0,3,9.0,3,1,Carrier billing,Yes
+OTT-00213,Standard,12,10,Monthly,21.4,-32.3,36.0,5,1.0,1,1,Card,No
+OTT-00214,Premium,18,42,Monthly,37.9,32.2,49.0,4,3.0,2,0,Wallet,No
+OTT-00215,Premium,18,20,Monthly,35.9,-19.7,18.0,5,2.0,0,0,UPI,No
+OTT-00216,Premium,18,1,Monthly,39.9,-30.3,37.0,2,3.0,0,2,Card,Yes
+OTT-00217,Standard,12,36,Monthly,6.7,45.6,34.0,2,1.0,2,0,Card,No
+OTT-00218,Premium,18,4,Monthly,32.8,26.4,41.0,1,22.0,2,0,Card,No
+OTT-00219,Mobile,6,2,Monthly,25.1,-5.5,51.0,2,11.0,1,0,Card,Yes
+OTT-00220,Standard,12,32,Annual,58.2,26.8,17.0,3,1.0,1,0,Wallet,No
+OTT-00221,Premium,18,14,Monthly,35.1,-13.9,79.0,3,8.0,1,0,Wallet,No
+OTT-00222,Mobile,6,45,Monthly,25.1,14.5,44.0,3,16.0,1,0,Card,No
+OTT-00223,Standard,12,2,Monthly,39.4,1.7,56.0,2,6.0,0,0,Wallet,Yes
+OTT-00224,Standard,12,13,Annual,33.2,-10.9,64.0,5,2.0,1,1,UPI,No
+OTT-00225,Mobile,6,48,Monthly,35.7,7.8,82.0,5,3.0,3,0,Card,No
+OTT-00226,Mobile,6,36,Monthly,32.2,-33.6,48.0,3,0.0,1,1,UPI,No
+OTT-00227,Mobile,6,34,Monthly,19.7,-17.1,27.0,3,1.0,1,0,Wallet,No
+OTT-00228,Standard,12,4,Annual,19.6,-61.5,20.0,2,3.0,0,0,UPI,No
+OTT-00229,Standard,12,10,Monthly,34.9,-9.8,54.0,5,1.0,2,0,Card,No
+OTT-00230,Premium,18,29,Monthly,16.3,7.6,38.0,4,1.0,0,1,UPI,Yes
+OTT-00231,Standard,12,5,Monthly,27.5,-43.3,78.0,1,2.0,2,0,Card,Yes
+OTT-00232,Standard,12,35,Annual,32.2,11.4,31.0,3,4.0,1,0,Wallet,No
+OTT-00233,Standard,12,14,Monthly,17.1,-65.9,25.0,2,10.0,2,0,Wallet,Yes
+OTT-00234,Mobile,6,24,Monthly,31.4,-17.7,24.0,5,6.0,1,0,Card,No
+OTT-00235,Standard,12,36,Monthly,25.5,-3.0,92.0,4,0.0,0,0,Carrier billing,No
+OTT-00236,Mobile,6,3,Monthly,19.8,-0.7,77.0,2,5.0,1,0,Wallet,No
+OTT-00237,Premium,18,48,Monthly,35.9,7.0,25.0,5,3.0,0,0,UPI,No
+OTT-00238,Standard,12,42,Monthly,7.5,-49.7,38.0,1,3.0,0,0,Wallet,Yes
+OTT-00239,Standard,12,13,Monthly,7.4,5.0,37.0,2,1.0,2,0,Card,Yes
+OTT-00240,Premium,18,13,Monthly,25.8,20.4,10.0,3,12.0,2,1,Card,No
+OTT-00241,Standard,12,39,Monthly,9.4,-13.4,43.0,2,10.0,1,0,Wallet,No
+OTT-00242,Mobile,6,33,Monthly,43.2,-7.2,58.0,3,4.0,1,0,Card,No
+OTT-00243,Mobile,6,40,Monthly,20.5,-43.2,47.0,4,3.0,2,0,UPI,No
+OTT-00244,Standard,12,26,Monthly,5.6,25.8,40.0,1,5.0,3,0,UPI,No
+OTT-00245,Mobile,6,33,Monthly,22.9,-38.1,37.0,1,2.0,1,0,Card,Yes
+OTT-00246,Mobile,6,48,Monthly,50.1,32.4,37.0,1,2.0,1,1,Card,No
+OTT-00247,Standard,12,25,Monthly,12.8,65.8,49.0,1,1.0,0,0,Card,No
+OTT-00248,Standard,12,20,Monthly,16.5,-15.0,74.0,4,5.0,2,0,Card,No
+OTT-00249,Mobile,6,45,Monthly,32.9,-23.2,38.0,1,7.0,2,1,UPI,Yes
+OTT-00250,Standard,12,41,Monthly,44.8,-5.6,30.0,1,9.0,0,0,UPI,No
+OTT-00251,Standard,12,32,Monthly,11.2,29.8,27.0,4,6.0,0,1,Carrier billing,Yes
+OTT-00252,Standard,12,19,Monthly,14.5,-27.4,83.0,2,6.0,0,1,Carrier billing,No
+OTT-00253,Standard,12,25,Monthly,3.4,-64.5,82.0,4,6.0,2,0,Card,Yes
+OTT-00254,Premium,18,34,Monthly,24.8,33.8,44.0,5,6.0,0,0,Card,No
+OTT-00255,Mobile,6,30,Annual,28.5,0.6,47.0,1,7.0,1,0,Card,No
+OTT-00256,Standard,12,22,Monthly,37.8,-7.0,40.0,1,0.0,3,0,Carrier billing,Yes
+OTT-00257,Premium,18,38,Monthly,31.1,1.5,23.0,1,9.0,2,3,Card,No
+OTT-00258,Mobile,6,30,Monthly,26.5,-24.8,45.0,2,0.0,1,1,Card,No
+OTT-00259,Mobile,6,7,Monthly,28.7,-5.9,16.0,5,19.0,1,0,Card,No
+OTT-00260,Standard,12,8,Monthly,33.4,7.7,29.0,4,8.0,0,0,UPI,No
+OTT-00261,Standard,12,40,Monthly,8.5,14.4,35.0,4,0.0,0,0,Card,No
+OTT-00262,Premium,18,26,Monthly,28.6,0.8,66.0,4,1.0,1,0,Wallet,No
+OTT-00263,Premium,18,41,Monthly,1.8,-72.6,46.0,3,12.0,2,0,UPI,No
+OTT-00264,Mobile,6,22,Monthly,41.1,-10.0,25.0,1,5.0,0,0,UPI,No
+OTT-00265,Mobile,6,17,Annual,50.3,1.2,67.0,3,2.0,1,0,Card,No
+OTT-00266,Mobile,6,13,Monthly,16.9,3.7,42.0,2,2.0,1,1,Wallet,No
+OTT-00267,Standard,12,4,Monthly,29.5,-13.2,25.0,5,4.0,0,1,Wallet,Yes
+OTT-00268,Mobile,6,32,Monthly,36.4,58.5,57.0,3,0.0,2,0,Card,No
+OTT-00269,Mobile,6,38,Monthly,46.9,-13.8,48.0,2,7.0,1,1,Wallet,No
+OTT-00270,Premium,18,36,Annual,23.3,13.0,5.0,3,1.0,0,0,Card,No
+OTT-00271,Standard,12,43,Monthly,15.2,-14.3,48.0,2,6.0,0,0,UPI,No
+OTT-00272,Mobile,6,40,Monthly,31.7,13.8,31.0,1,22.0,0,0,UPI,No
+OTT-00273,Mobile,6,28,Annual,43.6,-44.8,28.0,4,4.0,0,1,UPI,Yes
+OTT-00274,Standard,12,6,Monthly,26.2,44.9,39.0,4,0.0,0,0,Card,No
+OTT-00275,Mobile,6,36,Monthly,44.0,9.6,8.0,2,9.0,0,0,UPI,No
+OTT-00276,Mobile,6,29,Monthly,39.2,-16.3,40.0,4,0.0,2,0,Wallet,No
+OTT-00277,Mobile,6,37,Monthly,35.4,-12.5,50.0,2,0.0,3,2,Wallet,Yes
+OTT-00278,Standard,12,28,Annual,24.7,-22.6,28.0,2,11.0,0,1,UPI,Yes
+OTT-00279,Standard,12,14,Monthly,21.7,-11.1,39.0,4,5.0,1,1,Card,No
+OTT-00280,Standard,12,11,Monthly,49.1,-1.1,46.0,4,4.0,0,0,Card,No
+OTT-00281,Standard,12,6,Annual,12.9,-17.3,54.0,1,10.0,0,0,Card,No
+OTT-00282,Standard,12,19,Monthly,32.3,21.6,57.0,2,22.0,0,0,Carrier billing,No
+OTT-00283,Standard,12,43,Annual,31.3,66.2,33.0,3,2.0,1,0,Card,No
+OTT-00284,Mobile,6,9,Monthly,29.9,-7.2,39.0,3,6.0,1,1,Wallet,Yes
+OTT-00285,Mobile,6,13,Annual,9.9,-67.3,14.0,2,0.0,0,1,UPI,Yes
+OTT-00286,Standard,12,9,Monthly,26.1,-10.8,32.0,1,7.0,1,0,Card,Yes
+OTT-00287,Mobile,6,21,Annual,17.6,-3.6,71.0,5,0.0,0,0,Card,No
+OTT-00288,Mobile,6,8,Monthly,38.1,22.3,25.0,3,2.0,2,0,Carrier billing,No
+OTT-00289,Mobile,6,43,Monthly,28.6,-21.7,68.0,3,1.0,3,0,Wallet,No
+OTT-00290,Mobile,6,43,Monthly,45.8,-21.2,22.0,3,8.0,3,0,Carrier billing,No
+OTT-00291,Premium,18,16,Monthly,45.2,-21.9,59.0,4,35.0,2,0,UPI,Yes
+OTT-00292,Standard,12,5,Annual,19.5,-39.0,50.0,2,3.0,1,0,UPI,No
+OTT-00293,Mobile,6,20,Monthly,45.2,-53.9,78.0,4,10.0,2,0,Wallet,No
+OTT-00294,Standard,12,2,Annual,16.4,2.1,5.0,4,1.0,1,0,Wallet,No
+OTT-00295,Mobile,6,2,Monthly,43.7,-43.9,29.0,5,1.0,0,0,UPI,Yes
+OTT-00296,Premium,18,24,Monthly,8.6,-9.6,78.0,5,9.0,0,0,Card,No
+OTT-00297,Premium,18,4,Monthly,45.9,19.1,47.0,1,4.0,0,1,Card,No
+OTT-00298,Standard,12,24,Monthly,15.2,-27.9,56.0,4,1.0,1,0,Carrier billing,Yes
+OTT-00299,Mobile,6,32,Monthly,20.3,33.9,28.0,5,5.0,2,0,Card,No

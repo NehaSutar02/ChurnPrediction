@@ -1,0 +1,5 @@
+{
+  "accuracy": 0.64,
+  "roc_auc": 0.7105,
+  "churn_recall": 0.6347
+}

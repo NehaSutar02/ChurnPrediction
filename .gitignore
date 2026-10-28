@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+data/raw/
+app_preview_backup.py
+playground-1.mongodb.js
